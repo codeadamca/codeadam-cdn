@@ -38,6 +38,32 @@ https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured.png
 > Available Versions: 1.0.0  
 > Documentation: [branding.codeadam.ca](https://branding.codeadam.ca)
 
+## Social
+
+Common social images from [CodeAdam Social](https://codeadam.ca/about).
+
+```
+https://cdn.codeadam.ca/social@1.0.0/academia.jog
+https://cdn.codeadam.ca/social@1.0.0/arduino.jog
+https://cdn.codeadam.ca/social@1.0.0/calendly.jog
+https://cdn.codeadam.ca/social@1.0.0/facebook.jog
+https://cdn.codeadam.ca/social@1.0.0/flickr.jog
+https://cdn.codeadam.ca/social@1.0.0/github.jog
+https://cdn.codeadam.ca/social@1.0.0/instagram.jog
+https://cdn.codeadam.ca/social@1.0.0/linktree.jog
+https://cdn.codeadam.ca/social@1.0.0/orcid.jog
+https://cdn.codeadam.ca/social@1.0.0/stack-overflow.jog
+https://cdn.codeadam.ca/social@1.0.0/tinkercad.jog
+https://cdn.codeadam.ca/social@1.0.0/twitch.jog
+https://cdn.codeadam.ca/social@1.0.0/twitter.jog
+https://cdn.codeadam.ca/social@1.0.0/visual-studio.jog
+https://cdn.codeadam.ca/social@1.0.0/youtube.jog
+
+```
+
+> Available Versions: 1.0.0  
+> Documentation: [branding.codeadam.ca](https://branding.codeadam.ca)
+
 ### Components  
 
 A list and replacement script for commonly used components for BrickMMO and CodeAdam Markdown assets.
