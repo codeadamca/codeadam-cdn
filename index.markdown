@@ -58,11 +58,7 @@ https://cdn.codeadam.ca/social@1.0.0/twitch.jpg
 https://cdn.codeadam.ca/social@1.0.0/twitter.jpg
 https://cdn.codeadam.ca/social@1.0.0/visual-studio.jpg
 https://cdn.codeadam.ca/social@1.0.0/youtube.jpg
-
 ```
-
-> Available Versions: 1.0.0  
-> Documentation: [branding.codeadam.ca](https://branding.codeadam.ca)
 
 ### Components  
 
