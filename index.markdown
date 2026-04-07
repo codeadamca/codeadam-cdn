@@ -58,6 +58,7 @@ https://cdn.codeadam.ca/social@1.0.0/twitch.jpg
 https://cdn.codeadam.ca/social@1.0.0/twitter.jpg
 https://cdn.codeadam.ca/social@1.0.0/visual-studio.jpg
 https://cdn.codeadam.ca/social@1.0.0/youtube.jpg
+https://cdn.codeadam.ca/social@1.0.0/x.jpg
 ```
 
 ### Components  
