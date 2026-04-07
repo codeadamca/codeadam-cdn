@@ -43,21 +43,21 @@ https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured.png
 Common social images from [CodeAdam Social](https://codeadam.ca/about).
 
 ```
-https://cdn.codeadam.ca/social@1.0.0/academia.jog
-https://cdn.codeadam.ca/social@1.0.0/arduino.jog
-https://cdn.codeadam.ca/social@1.0.0/calendly.jog
-https://cdn.codeadam.ca/social@1.0.0/facebook.jog
-https://cdn.codeadam.ca/social@1.0.0/flickr.jog
-https://cdn.codeadam.ca/social@1.0.0/github.jog
-https://cdn.codeadam.ca/social@1.0.0/instagram.jog
-https://cdn.codeadam.ca/social@1.0.0/linktree.jog
-https://cdn.codeadam.ca/social@1.0.0/orcid.jog
-https://cdn.codeadam.ca/social@1.0.0/stack-overflow.jog
-https://cdn.codeadam.ca/social@1.0.0/tinkercad.jog
-https://cdn.codeadam.ca/social@1.0.0/twitch.jog
-https://cdn.codeadam.ca/social@1.0.0/twitter.jog
-https://cdn.codeadam.ca/social@1.0.0/visual-studio.jog
-https://cdn.codeadam.ca/social@1.0.0/youtube.jog
+https://cdn.codeadam.ca/social@1.0.0/academia.jpg
+https://cdn.codeadam.ca/social@1.0.0/arduino.jpg
+https://cdn.codeadam.ca/social@1.0.0/calendly.jpg
+https://cdn.codeadam.ca/social@1.0.0/facebook.jpg
+https://cdn.codeadam.ca/social@1.0.0/flickr.jpg
+https://cdn.codeadam.ca/social@1.0.0/github.jpg
+https://cdn.codeadam.ca/social@1.0.0/instagram.jpg
+https://cdn.codeadam.ca/social@1.0.0/linktree.jpg
+https://cdn.codeadam.ca/social@1.0.0/orcid.jpg
+https://cdn.codeadam.ca/social@1.0.0/stack-overflow.jpg
+https://cdn.codeadam.ca/social@1.0.0/tinkercad.jpg
+https://cdn.codeadam.ca/social@1.0.0/twitch.jpg
+https://cdn.codeadam.ca/social@1.0.0/twitter.jpg
+https://cdn.codeadam.ca/social@1.0.0/visual-studio.jpg
+https://cdn.codeadam.ca/social@1.0.0/youtube.jpg
 
 ```
 
