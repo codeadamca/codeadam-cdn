@@ -10,6 +10,12 @@ const components = {
         '<li><a href="https://ldr.brickmmo.com/">LDR Directory</a></li>' +
         '<li><a href="https://tasks.brickmmo.com/">Tasks</a></li>' +
         '</ul>' + 
+        '<h2>BrickCoLab Resources</h2>' + 
+        '<ul>' +
+        '<li><a href="https://branding.brickcolab.com/">Branding Guidelines</a></li>' +
+        '<li><a href="https://cdn.brickmmo.com/">CDN</a></li>' +
+        '<li><a href="https://classroom.brickcolab.com/">Classroom Activities</a></li>' +
+        '</ul>' + 
         '<h2>CodeAdam Resources</h2>' +
         '<ul>' + 
         '<li><a href="https://branding.codeadam.ca/">Branding Guidelines</a></li>' +
